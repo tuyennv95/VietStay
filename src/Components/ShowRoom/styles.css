@@ -1,0 +1,27 @@
+.makeStyles-selectEmpty-96{ 
+    margin:0!important;
+}
+.makeStyles-selectEmpty-2{
+   margin-top: 0!important;
+}
+
+.MuiInput-underline:before{
+   border-bottom:none!important;
+}
+.MuiInput-underline:after{
+   border-bottom:none!important;
+
+}
+.MuiNativeSelect-select.MuiNativeSelect-select{
+   padding-left: 25px;
+   padding-bottom: 15px;
+   padding-top: 15px;
+  
+}
+.MuiInput-input{
+   margin-top:5px;
+   border-radius: 5px;
+}
+.MuiCardContent-root{
+   padding: 0!important;
+}

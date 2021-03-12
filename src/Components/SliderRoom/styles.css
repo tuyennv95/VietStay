@@ -1,0 +1,37 @@
+.slick_slider_list .slider_element img {
+    width: 100%;
+    /* margin: 0 auto; */
+    height: 300px;
+    object-fit: cover;
+    border-left: solid 2px white;
+    border-right: solid 2px white;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center center;
+}
+.slick_slider_list .hihi img {
+    width: 100%;
+    /* margin: 0 auto; */
+    height: 500px;
+    object-fit: cover;
+    border-left: solid 2px white;
+    border-right: solid 2px white;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.slick-list{
+    height: 100%;
+
+}
+.slider_element{
+    width:100%;
+}
+.haha{
+    height: 500px;
+}

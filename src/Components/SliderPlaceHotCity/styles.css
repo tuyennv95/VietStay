@@ -1,0 +1,112 @@
+/* *{
+    margin:0;
+    padding:0;
+} */
+.slider_place_hot_city{
+    width: 95%;
+    margin:0 auto;
+    padding-top:70px;
+}
+.slider_place_title {
+    margin-bottom: 20px;
+}
+.slider_place_title h6{
+    margin-bottom: 5px;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 36px;
+    color:#ffffff;
+}
+.slider_place_title p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color:rgba(255, 255, 255, 0.9);
+}
+
+
+.slick_slider_place_list{
+    /* margin: 0 auto; */
+    min-height: 300px;
+}
+.slider_place_list{
+    height: 100%;
+    width: 100%;
+
+}
+/* .slick-list{
+    height: 300px;
+    width: 100%;
+} */
+.slick_slider_place_list .slider_place_element{
+    height: 190px;
+}
+/* @media only screen and (max-width: 1024px){
+    .slider_place_element{
+        height: 230px!important;
+    }
+    .slick_slider_place_list{
+        height: 330px!important;
+    }
+}
+@media only screen and (max-width: 600px){
+    .slider_place_element{
+        min-height: 240px!important;
+        max-height: 250px!important;
+    }
+    .slick_slider_place_list{
+        height: 360px!important;
+    }
+} */
+
+.slick_slider_place_list .slider_place_element img{
+    width: 95%;
+    margin: 0 auto;
+    height: 100%;
+    object-fit: cover;
+
+}
+.slick-prev{
+    z-index: 200;
+    left: 20px;
+}
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 50px;
+    line-height: 0;
+    opacity: .75;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+
+}
+.slick-next {
+    right: 50px;
+}
+.slider_place_element_title{
+   margin-top:15px;
+}
+.slider_place_element_title h6{
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    color:#555555;
+}
+.slider_place_element_title p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color:#151b26de;
+    margin-top:10px;
+    width: 95%;
+}
+.slider_place_element:hover p{
+    color:#f65e39;
+}
+
+ 
+
+
+.slider_place_hot_city{
+    width: 95%;
+    margin:0 auto;
+}
